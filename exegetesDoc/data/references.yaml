@@ -1,0 +1,1547 @@
+references:
+- authority: "Cour\_EDH"
+  id: cedhObserver
+  issued:
+    day: 26
+    month: 11
+    year: 1991
+  number: "n^o^\_13585/88"
+  section: null
+  title: Observer & Guardian contre Royaume-Uni
+  title-short: Observer c. R.-U.
+  type: legal_case
+- ECLI: null
+  URL: http://hudoc.echr.coe.int/eng?i=001-142383
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhAkdeniz
+  issued:
+    day: 11
+    month: 3
+    year: 2014
+  number: "n^o^\_20877/10"
+  section: 2^e^ sect.
+  title: Akdniz c. Turquie
+  title-short: Akdeniz c. Turq.
+  type: legal_case
+- ECLI: null
+  URL: http://hudoc.echr.coe.int/eng?i=001-30962
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhEkinRecevab
+  issued:
+    day: 18
+    month: 1
+    year: 2000
+  number: "n^o^\_39288/98"
+  section: 3^e^ sect.
+  title: "Ekin c. France, d\xE9cision sur la recevabilit\xE9"
+  title-short: "Ekin c. Fr., recevabilit\xE9"
+  type: legal_case
+- ECLI: null
+  URL: http://hudoc.echr.coe.int/eng?i=001-62458
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhHentrich
+  issued:
+    day: 22
+    month: 09
+    year: 1994
+  number: "n^o^\_13616/88"
+  section: ch.
+  title: Hentrich c. France
+  title-short: Hentrich c. France
+  type: legal_case
+- ECLI: null
+  URL: http://hudoc.echr.coe.int/eng?i=001-62971
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhAmann
+  issued:
+    day: 16
+    month: 2
+    year: 2000
+  number: "n^o^\_27798/95"
+  section: g^de^ ch.
+  title: Amann c. Suisse
+  title-short: Amann c. Suisse
+  type: legal_case
+- ECLI: null
+  URL: http://hudoc.echr.coe.int/eng?i=001-115401
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhYildirim
+  issued:
+    day: 18
+    month: 12
+    year: 2012
+  number: "n^o^\_3111/10"
+  section: 2^e^ sect.
+  title: Ahmet Yildirim c. Turquie
+  title-short: Yildirim c. Turquie
+  type: legal_case
+- ECLI: null
+  URL: http://hudoc.echr.coe.int/eng?i=001-62133
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhSilver
+  issued:
+    day: 25
+    month: 3
+    year: 1983
+  number: "n^o^\_5947/72"
+  section: ch.
+  title: Silver et autres c. Royaume-Uni
+  title-short: Silver c. R-U
+  type: legal_case
+- ECLI: null
+  URL: http://hudoc.echr.coe.int/eng?i=001-62068
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhKlass
+  issued:
+    day: 6
+    month: 09
+    year: 1978
+  number: "n^o^\_5029/71"
+  section: "Pl\xE9n."
+  title: Klass et autres c. Allemagne
+  title-short: Klass c. All.
+  type: legal_case
+- ECLI: null
+  URL: http://hudoc.echr.coe.int/eng?i=001-91699
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhWeber
+  issued:
+    day: 29
+    month: 6
+    year: 2006
+  number: "n^o^\_54934/00"
+  section: "3^e^\_sect."
+  title: Weber et Saravia c. Allemagne
+  title-short: Weber c. All.
+  type: legal_case
+- ECLI: null
+  URL: http://hudoc.echr.coe.int/eng?i=001-87208
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhLiberty
+  issued:
+    day: 1
+    month: 7
+    year: 2008
+  number: "n^o^\_58243/00"
+  section: "4^e^\_sect."
+  title: Liberty et autres c. Royaume-Uni
+  title-short: Liberty c. R-U
+  type: legal_case
+- ECLI: null
+  URL: http://hudoc.echr.coe.int/eng?i=001-98672
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhKennedy
+  issued:
+    day: 18
+    month: 5
+    year: 2010
+  number: "n^o^\_26839/05"
+  section: "4^e^\_sect."
+  title: Kennedy c. Royaume-Uni
+  title-short: Kennedy c. R-U
+  type: legal_case
+- ECLI: ECLI:EU:C:2014:238
+  URL: http://curia.europa.eu/juris/documents.jsf?num=C-293/12
+  authority: CJUE
+  comments: null
+  id: cjueDRI
+  issued:
+    day: 08
+    month: 4
+    year: 2014
+  number: C-293/12, C-594/12
+  section: "g^de^\_ch."
+  title: "Digital Rights Ireland Ltd contre Minister for Communications, Marine and\
+    \ Natural Resources et autres et K\xE4rntner Landesregierung et autres"
+  title-short: Digital Rights Ireland
+  type: legal_case
+- ECLI: ECLI:EU:C:2015:650
+  URL: http://curia.europa.eu/juris/documents.jsf?num=C-362/14
+  authority: CJUE
+  comments: null
+  id: cjueSchrems
+  issued:
+    day: 6
+    month: 10
+    year: 2015
+  number: C-362/14
+  section: "g^de^\_ch."
+  title: Maximilian Schrems contre Data Protection Commissioner
+  title-short: Schrems
+  type: legal_case
+- ECLI: null
+  URL: http://hudoc.echr.coe.int/eng?i=001-160008
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhZakharov
+  issued:
+    day: 4
+    month: 12
+    year: 2015
+  number: "n^o^\_47143/06"
+  section: "g^de^\_ch."
+  title: Roman Zakharov c. Russie
+  title-short: Zakharov c. Russie
+  type: legal_case
+- ECLI: null
+  URL: http://hudoc.echr.coe.int/eng?i=001-90052
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhMarper
+  issued:
+    day: 4
+    month: 12
+    year: 2008
+  number: "n^os^\_30562/04 et 30566/04"
+  section: "g^de^\_ch."
+  title: S. et Marper c. Royaume-Uni
+  title-short: Marper c. R-U
+  type: legal_case
+- ECLI: ECLI:EU:C:2013:715
+  URL: http://curia.europa.eu/juris/liste.jsf?num=C-473/12
+  authority: CJUE
+  comments: null
+  id: cjueIPI
+  issued:
+    day: 7
+    month: 11
+    year: 2013
+  number: C-473/12
+  section: null
+  title: Institut professionnel des agents immobiliers (IPI) c. Englebert et autres
+  title-short: IPI c. Englebert
+  type: legal_case
+- ECLI: null
+  URL: http://hudoc.echr.coe.int/eng?i=001-62077
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhLeander
+  issued:
+    day: 26
+    month: 3
+    year: 1987
+  number: "n^o^\_9248/81"
+  section: null
+  title: "Leander c. Su\xE8de"
+  title-short: "Leander c. Su\xE8de"
+  type: legal_case
+- ECLI: null
+  URL: http://hudoc.echr.coe.int/eng?i=001-63075
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhRotaru
+  issued:
+    day: 4
+    month: 5
+    year: 2000
+  number: "n^o^\_28341/95"
+  section: null
+  title: Rotaru c. Roumanie
+  title-short: Rotaru c. Roumanie
+  type: legal_case
+- ECLI: null
+  URL: http://hudoc.echr.coe.int/eng?i=001-160020
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhSzabo
+  issued:
+    day: 12
+    month: 1
+    year: 2016
+  number: "n^o^\_37138/14"
+  section: null
+  title: "Szab\xF3 et Vissy c. Hongrie"
+  title-short: "Szab\xF3 c. Hongrie"
+  type: legal_case
+- ECLI: ECLI:EU:C:2014:126
+  URL: http://curia.europa.eu/juris/liste.jsf?num=C-206/13
+  authority: CJUE
+  comments: null
+  id: cjueCruciano
+  issued:
+    day: 6
+    month: 3
+    year: 2014
+  number: C-206/13
+  section: "g^de^\_ch."
+  title: Cruciano Siragusa c. Regione Sicilia -- Soprintendenza Beni Culturali e Ambientali
+    di Palermo
+  title-short: Cruciano Siragusa
+  type: legal_case
+- ECLI: ECLI:EU:C:2014:281
+  URL: http://curia.europa.eu/juris/liste.jsf?&num=C-390/12
+  authority: CJUE
+  comments: null
+  id: cjuePfleger
+  issued:
+    day: 30
+    month: 4
+    year: 2014
+  number: C-390/12
+  section: "3^e^\_ch."
+  title: Pfleger et autres
+  title-short: Pfleger
+  type: legal_case
+- ECLI: ECLI:EU:C:2009:68
+  URL: http://curia.europa.eu/juris/liste.jsf?num=C-301/06
+  authority: CJUE
+  comments: null
+  id: cjueIrlandeVsEuroparl
+  issued:
+    day: 10
+    month: 2
+    year: 2009
+  number: C-301/06
+  section: null
+  title: "Irlande c. Parlement europ\xE9en et Conseil de l'Union europ\xE9enne"
+  title-short: Irlande c. Parlement et Conseil
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhShimovolos
+  issued:
+    day: 21
+    month: 6
+    year: 2011
+  number: "n^o^\_30164/09"
+  section: "1^re^\_sect."
+  title: Shimovolos c. Russie
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhNiemietz
+  issued:
+    day: 16
+    month: 12
+    year: 1992
+  number: "n^o^\_13710/88"
+  section: null
+  title: Niemietz c. Allemagne
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhCopland
+  issued:
+    day: 3
+    month: 4
+    year: 2007
+  number: "n^o^\_62617/00"
+  section: "4^e^\_sect."
+  title: Copland c. Royaume-Uni
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhDragojevic
+  issued:
+    day: 15
+    month: 1
+    year: 2015
+  number: "n^o^\_68955/11"
+  section: "1^re^\_sect."
+  title: "Dragojevi\u0107 c. Croatie"
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhPeck
+  issued:
+    day: 28
+    month: 1
+    year: 2003
+  number: "n^o^\_44647/98"
+  section: null
+  title: Peck c. Royaume-Uni
+  title-short: Peck c. R-U
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhEkimdzhiev
+  issued:
+    day: 28
+    month: 6
+    year: 2007
+  number: "n^o^\_62540/00"
+  section: null
+  title: "Association pour l'int\xE9gration europ\xE9enne et les droits de l'homme\
+    \ et Ekimdzhiev c. Bulgarie"
+  title-short: Ekimdzhiev c. Bulgarie
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhIordachi
+  issued:
+    day: 10
+    month: 2
+    year: 2009
+  number: "n^o^\_25198/02"
+  section: "4^e^\_sect."
+  title: Iordachi et autres c. Moldova
+  title-short: Iordachi c. Moldova
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhHalford
+  issued:
+    day: 25
+    month: 6
+    year: 1997
+  number: "n^o^\_20695/92"
+  section: null
+  title: Halford c. Royaume-Uni
+  title-short: Halford c. R-U
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhPgjh
+  issued:
+    day: 25
+    month: 09
+    year: 2001
+  number: "n^o^\_4478/98"
+  section: "3^e^\_sect."
+  title: PG et JH c. Royaume-Uni
+  title-short: PG et JH c. R-U
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhSanMarino
+  issued:
+    day: 7
+    month: 7
+    year: 2015
+  number: "n^o^\_28005/12"
+  section: "3^e^\_sect."
+  title: MN et autres c. San Marino
+  title-short: MN c. San Marino
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhMalone
+  issued:
+    day: 2
+    month: 08
+    year: 1984
+  number: "n^o^\_8691/79"
+  section: null
+  title: Malone c. Royaume-Uni
+  title-short: Malone c. R-U
+  type: legal_case
+- ECLI: ECLI:FR:CC:2012:2012.652.DC
+  URL: http://www.conseil-constitutionnel.fr/decision/2012/2012-652-dc/decision-n-2012-652-dc-du-22-mars-2012.105165.html
+  authority: Conseil constit.
+  comments: null
+  id: cconstIdentite
+  issued:
+    day: 22
+    month: 3
+    year: 2012
+  number: 2012-652 DC
+  section: null
+  title: "Loi relative \xE0 la protection de l'identit\xE9"
+  title-short: "Loi relative \xE0 la protection de l'identit\xE9"
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: Conseil constit.
+  comments: null
+  id: cconstRenseignmt
+  issued:
+    day: 23
+    month: 7
+    year: 2015
+  number: 2015-713 DC
+  section: null
+  title: Loi relative au renseignement
+  title-short: Loi renseignement
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: CJUE
+  comments: null
+  id: cjueSabam
+  issued:
+    day: 16
+    month: 2
+    year: 2012
+  number: C-360/10
+  section: null
+  title: SABAM c. Netlog
+  title-short: SABAM
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: Conseil constit.
+  comments: null
+  id: cconstSurvintl
+  issued:
+    day: 26
+    month: 11
+    year: 2015
+  number: 2015-722 DC
+  section: null
+  title: "Loi relative aux mesures de surveillance des communications \xE9lectroniques\
+    \ internationales"
+  title-short: Loi surveillance internationale
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: Conseil constit.
+  comments: null
+  id: cconstAccesadmin2006
+  issued:
+    day: 19
+    month: 1
+    year: 2006
+  number: 2005-532 DC
+  section: null
+  title: "Loi relative \xE0 la lutte contre le terrorisme et portant dispositions\
+    \ diverses relatives \xE0 la s\xE9curit\xE9 et aux contr\xF4les frontaliers"
+  title-short: Loi terrorisme
+  type: legal_case
+- ECLI: null
+  URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2015/2015-478-qpc/decision-n-2015-478-qpc-du-24-juillet-2015.144165.html
+  authority: Conseil constit.
+  comments: null
+  id: cconstLPM
+  issued:
+    day: 24
+    month: 7
+    year: 2015
+  number: 2015-478 QPC
+  section: null
+  title: Association French Data Network et autres
+  title-short: FDN
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: Conseil constit.
+  comments: null
+  id: cconstHadopi
+  issued:
+    day: 10
+    month: 6
+    year: 2009
+  number: 2009-580 DC
+  section: null
+  title: "Loi favorisant la diffusion et la protection de la cr\xE9ation sur internet"
+  title-short: Loi Hadopi
+  type: legal_case
+- ECLI: ECLI:EU:C:1986:166
+  URL: http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:61983CJ0294
+  authority: CJCE
+  comments: null
+  id: cjceVerts
+  issued:
+    day: 23
+    month: 4
+    year: 1986
+  number: 294/83
+  section: null
+  title: "Parti \xE9cologiste Les Verts c. Parlement europ\xE9en"
+  title-short: Les Verts
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: CJCE
+  comments: null
+  id: cjceHeylens
+  issued:
+    day: null
+    month: null
+    year: null
+  number: 222/86
+  section: null
+  title: Heylens et autres
+  title-short: Heylens
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: CJCE
+  comments: null
+  id: cjceJohnston
+  issued:
+    day: 15
+    month: 5
+    year: 1986
+  number: 222/84
+  section: null
+  title: Marguerite Johnston v. Chief Constable of the Royal Ulster Constabulary
+  title-short: Johnston
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: CJUE
+  comments: null
+  id: cjueUgt
+  issued:
+    day: null
+    month: null
+    year: null
+  number: C-428/06
+  section: null
+  title: UGT Rioja et autres
+  title-short: UGT Rioja
+  type: legal_case
+- ECLI: ECLI:EU:C:2013:363
+  URL: null
+  authority: CJUE
+  comments: null
+  id: cjueZz
+  issued:
+    day: 4
+    month: 6
+    year: 2013
+  number: C-300/11
+  section: "g^de^\_ch."
+  title: ZZ c. Secretary of State for the Home Department
+  title-short: ZZ
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhVetter
+  issued:
+    day: 31
+    month: 5
+    year: 2005
+  number: "n^o^\_59842/00"
+  section: null
+  title: Vetter c. France
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhKruslin
+  issued:
+    day: 24
+    month: 4
+    year: 1990
+  number: "n^o^\_11801/85"
+  section: null
+  title: Kruslin c. France
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: CJUE
+  comments: null
+  id: cjueTelekabel
+  issued:
+    day: 27
+    month: 3
+    year: 2014
+  number: C-314/12
+  section: null
+  title: Telekabel
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhEkin
+  issued:
+    day: 17
+    month: 7
+    year: 2001
+  number: "n^o^\_39288/98"
+  section: null
+  title: Association Ekin c. France
+  title-short: Ekin c. France
+  type: legal_case
+- authority: "Cour\_EDH"
+  id: cedhDeweer
+  issued:
+    day: 27
+    month: 2
+    year: 1980
+  number: "n^o^\_6903/75"
+  section: null
+  title: Deweer c. Belgique
+  type: legal_case
+- authority: "Cour\_EDH"
+  id: cedhAdolf
+  issued:
+    day: 26
+    month: 3
+    year: 1982
+  section: null
+  title: Adolf c. Autriche
+  type: legal_case
+- authority: Conseil constit.
+  id: cconstAudiovis
+  issued:
+    day: 3
+    month: 3
+    year: 2009
+  number: 2009/577 DC
+  section: null
+  title: Loi audiovisuel
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatKpmg
+  issued:
+    day: 24
+    month: 3
+    year: 2006
+  number: "n^o^\_288460"
+  section: Ass.
+  title: KPMG
+  type: legal_case
+- authority: High Court du Royaume-Uni
+  id: ukhighOpen
+  issued:
+    day: 17
+    month: 7
+    year: 2015
+  section: null
+  title: Open Rights Group and others v. Secretary of State for the Home Department
+  title-short: Open Rights Group
+  type: legal_case
+- authority: CJUE
+  id: cjueAklagaren
+  issued:
+    day: 26
+    month: 2
+    year: 2013
+  number: C-617/10
+  section: "g^de^\_ch."
+  title: "\xC5klagaren contre Hans \xC5kerberg Fransson"
+  title-short: "\xC5klagaren"
+  type: legal_case
+- authority: CJUE
+  id: cjueERT
+  issued:
+    day: 18
+    month: 6
+    year: 1991
+  number: C-260/89
+  title: "Elliniki Radiophonia Til\xE9orassi AE et Panellinia Omospondia Syllogon\
+    \ Prossopikou contre Dimotiki Etairia Pliroforissis et Sotirios Kouvelas et Nicolaos\
+    \ Avdellas et autres."
+  title-short: ERT
+  type: legal_case
+- authority: "Union europ\xE9enne"
+  id: euDir2002/58
+  title: "Directive 2002/58/CE du Parlement europ\xE9en et du Conseil du 12 juillet\
+    \ 2002 concernant le traitement des donn\xE9es \xE0 caract\xE8re personnel et\
+    \ la protection de la vie priv\xE9e dans le secteur des communications \xE9lectroniques\
+    \ (directive vie priv\xE9e et communications \xE9lectroniques)"
+  title-short: directive 2002/58/CE
+  type: legislation
+- authority: France
+  container-title: "Code des postes et des communications \xE9lectroniques"
+  container-title-short: CPCE
+  id: frCpceL34-1
+  title: "L.\_34-1"
+  type: legislation
+- id: frLcen
+  title: "Loi n^o^\_2004-575 du 21\_juin 2004 pour la confiance dans l'\xE9conomie\
+    \ num\xE9rique"
+  title-short: LCEN
+  type: legislation
+- ECLI: ECLI:EU:C:2016:572
+  authority: CJUE
+  id: cjueAgTele2
+  issued:
+    day: 19
+    month: 7
+    year: 2016
+  number: C-203/15, C-698/15
+  title: "Conclusions de l'avocat g\xE9n\xE9ral M.\_Henrik Saugmandsgaard \xD8e"
+  title-short: "Conclusions de l'avocat g\xE9n\xE9ral Saugmandsgaard \xD8e"
+  type: legal_case
+- ECLI: null
+  URL: http://hudoc.echr.coe.int/eng?i=001-62458
+  authority: "Cour\_EDH"
+  comments: null
+  id: cedhPopescu
+  issued:
+    day: 26
+    month: 4
+    year: 2007
+  number: "n^o^\_71525/01"
+  section: no 2
+  title: Dumitru Popescu c. Roumanie
+  title-short: Popescu c. Roumanie
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatLamotte
+  issued:
+    day: 17
+    month: 2
+    year: 1950
+  number: "Rec. p.\_110"
+  section: Ass.
+  title: Ministre de l'agriculture c. Dame Lamotte
+  title-short: Dame Lamotte
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatFalco
+  issued:
+    day: 17
+    month: 4
+    year: 1953
+  number: "Rec. p.\_175"
+  section: Ass.
+  title: Falco et Vidaillac
+  title-short: Falco
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatDeltel
+  issued:
+    day: 16
+    month: 12
+    year: 1955
+  number: "Rec. p.\_592"
+  section: Sect.
+  title: "\xC9poux Deltel"
+  title-short: Deltel
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatSimonet
+  issued:
+    day: 17
+    month: 5
+    year: 1957
+  number: "Rec. p.\_314"
+  section: Sect.
+  title: Simonet
+  title-short: Simonet
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatSimonet
+  issued:
+    day: 17
+    month: 5
+    year: 1957
+  number: "Rec. p.\_314"
+  section: Sect.
+  title: Simonet
+  title-short: Simonet
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatSimonet
+  issued:
+    day: 17
+    month: 5
+    year: 1957
+  number: "Rec. p.\_314"
+  section: Sect.
+  title: Simonet
+  title-short: Simonet
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: Conseil constit.
+  comments: null
+  id: cconst2011150
+  issued:
+    day: 13
+    month: 7
+    year: 2011
+  number: 2011-150 QPC
+  section: null
+  title: "SAS VESTEL France et autre [Perquisitions douani\xE8res]"
+  title-short: SAS Vestel France
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: Conseil constit.
+  comments: null
+  id: cconst99416
+  issued:
+    day: 23
+    month: 7
+    year: 1999
+  number: 99-416 DC
+  section: null
+  title: "Loi portant cr\xE9ation d'une couverture maladie universelle"
+  title-short: Loi couverture maladie universelle
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: Conseil constit.
+  comments: null
+  id: cconst93335
+  issued:
+    day: 21
+    month: 1
+    year: 1994
+  number: 93-335 DC
+  section: null
+  title: "Loi portant diverses dispositions en mati\xE8re d'urbanisme et de construction"
+  title-short: Loi urbanisme et construction
+  type: legal_case
+- ECLI: null
+  URL: null
+  authority: Conseil constit.
+  comments: null
+  id: cconst86217
+  issued:
+    day: 18
+    month: 09
+    year: 1986
+  number: 86-217 DC
+  section: null
+  title: "Loi relative \xE0 la libert\xE9 de communication"
+  title-short: "Libert\xE9 de communication"
+  type: legal_case
+- authority: "Cour\_EDH"
+  id: cedhPradelle
+  issued:
+    day: 16
+    month: 12
+    year: 1992
+  number: "n^o^\_12964/87"
+  section: null
+  title: Geouffre de la Pradelle c. France
+  title-short: de la Pradelle c. France
+  type: legal_case
+- authority: "Cour\_EDH"
+  id: cedhBellet
+  issued:
+    day: 4
+    month: 12
+    year: 1995
+  number: "n^o^\_23805/94"
+  section: null
+  title: Bellet c. France
+  title-short: Bellet c. France
+  type: legal_case
+- authority: "Cour\_EDH"
+  id: cedhDeSouza
+  issued:
+    day: 13
+    month: 12
+    year: 2012
+  number: "n^o^\_22689/07"
+  section: g^de^ ch.
+  title: De Souza Ribeiro c. France
+  title-short: De Souza Ribeiro c. France
+  type: legal_case
+- authority: CJCE
+  id: cjceJohnston
+  issued:
+    day: 15
+    month: 5
+    year: 1986
+  number: 222/84
+  section: null
+  title: Marguerite Johnson
+  title-short: Johnston
+  type: legal_case
+- authority: CJUE
+  id: cjueRundfunk
+  issued:
+    day: 20
+    month: 5
+    year: 2003
+  number: C-465/00, C-138/01 et C-139/01
+  section: null
+  title: "\xD6sterreichischer Rundfunk e. a."
+  title-short: Rundfunk
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatVerifintern
+  issued:
+    day: 19
+    month: 10
+    year: 2016
+  number: "n^o^\_397623"
+  section: "form. sp\xE9."
+  title: Mme B... A...
+  title-short: B... A...
+  type: legal_case
+- authority: CJUE
+  id: cjueSchwarz
+  issued:
+    day: 17
+    month: 10
+    year: 2013
+  number: C-291/12
+  section: 4^e^ ch.
+  title: Michael Schwarz c. Stadt Bochum
+  title-short: Schwarz
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatJoannides
+  issued:
+    day: 2
+    month: 5
+    year: 1990
+  number: "n^o^\_86662"
+  title: Joannides
+  title-short: Joannides
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatUnionpharma
+  issued:
+    day: 16
+    month: 10
+    year: 1968
+  number: "n^os^\_69186, 69206 et 70749, Rec. p. 488"
+  title: Union nationale des grandes pharmacies de France
+  title-short: Union nationale des grandes pharmacies de France
+  type: legal_case
+- ECLI: ECLI:EU:C:2016:970
+  URL: http://curia.europa.eu/juris/documents.jsf?num=C-362/14
+  authority: CJUE
+  comments: null
+  id: cjueTele2
+  issued:
+    day: 21
+    month: 12
+    year: 2016
+  number: C-203/15, C-698/15
+  section: "g^de^\_ch."
+  title: Tele2 Sverige AB c. Postoch telestyrelsen et Secretary of State for the Home
+    Department
+  title-short: Tele2 Sverige
+  type: legal_case
+- URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000032064635&fastReqId=1953450762&fastPos=1
+  authority: "Conseil d\u2019\xC9tat"
+  id: cetatLoppsiCaze
+  issued:
+    day: 15
+    month: 2
+    year: 2016
+  number: "n^os^\_389896 et 389140"
+  title: French Data Network et autres
+  title-short: French Data Network et a.
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatArtigue
+  issued:
+    day: 12
+    month: 11
+    year: 1915
+  number: "Rec. p.\_309"
+  title: "Abb\xE9 Artigue"
+  title-short: "Abb\xE9 Artigue"
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatCadel
+  issued:
+    day: 09
+    month: 1
+    year: 1931
+  number: "Rec. p.\_11"
+  section: Sect.
+  title: "Abb\xE9 Cadel"
+  title-short: "Abb\xE9 Cadel"
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatMathian
+  issued:
+    day: 22
+    month: 11
+    year: 1946
+  number: "Rec. p.\_278"
+  section: Ass.
+  title: Mathian
+  title-short: Mathian
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatFroment
+  issued:
+    day: 18
+    month: 11
+    year: 1966
+  number: "Rec. p.\_607"
+  section: Sect.
+  title: Froment
+  title-short: Froment
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatGarnotel
+  issued:
+    day: 10
+    month: 2
+    year: 1978
+  number: "Rec. p.\_905"
+  title: Garnotel
+  title-short: Garnotel
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatSandre
+  issued:
+    day: 25
+    month: 7
+    year: 1980
+  number: "Rec. p.\_325"
+  title: Sandre
+  title-short: Sandre
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatDivier
+  issued:
+    day: 25
+    month: 7
+    year: 1986
+  number: "Rec. p.\_208"
+  title: Divier
+  title-short: Divier
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatScientologie
+  issued:
+    day: 27
+    month: 10
+    year: 1988
+  number: "Rec. p.\_354"
+  section: Sect.
+  title: "\xC9glise de scientologie de Paris"
+  title-short: Scientologie
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatCreditmut
+  issued:
+    day: 16
+    month: 1
+    year: 2006
+  number: "n^o^\_274721"
+  title: "F\xE9d\xE9ration du Cr\xE9dit mutuel du Centre Est Europe"
+  title-short: "F\xE9d. du Cr\xE9dit mutuel"
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatJehovah
+  issued:
+    day: 7
+    month: 08
+    year: 2008
+  number: "n^o^\_310220"
+  title: "T\xE9moins de J\xE9hovah"
+  title-short: "T\xE9moins de J\xE9hovah"
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatMedecins
+  issued:
+    day: 10
+    month: 7
+    year: 1992
+  number: "n^os^\_105440, 106591, 110194 et 121353, Rec. p.\_289"
+  title: "Syndicat des m\xE9decins lib\xE9raux et autres"
+  title-short: "Syndicat des m\xE9decins lib\xE9raux"
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatSeita
+  issued:
+    day: 25
+    month: 2
+    year: 1993
+  number: "n^o^\_122993"
+  title: "Comit\xE9 central d'entreprise de la SEITA"
+  title-short: SEITA
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatPromouvoir
+  issued:
+    day: 6
+    month: 10
+    year: 2000
+  number: "n^o^\_216901"
+  title: Association Promouvoir
+  title-short: Association Promouvoir
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatRaiff
+  issued:
+    day: 28
+    month: 10
+    year: 1994
+  number: "n^o^\_59767"
+  title: Raiff
+  title-short: Raiff
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetat23mai2014
+  issued:
+    day: 23
+    month: 5
+    year: 2014
+  number: "n^o^\_380560"
+  section: ord.
+  title: ''
+  title-short: ''
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatLaudon
+  issued:
+    day: 6
+    month: 6
+    year: 1969
+  number: "Rec. p.\_288"
+  section: Ass.
+  title: Dame Laudon et autres
+  title-short: Laudon
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatNavigationaerienne
+  issued:
+    day: 22
+    month: 12
+    year: 1982
+  number: "Rec. p.\_436"
+  section: Ass.
+  title: "Comit\xE9 central d'entreprise de la soci\xE9t\xE9 fran\xE7aise d'\xE9quipement\
+    \ pour la navigation a\xE9rienne"
+  title-short: "S^t\xE9^ fra. d'\xE9quipement pour la navigation a\xE9rienne"
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatCusenier
+  issued:
+    day: 12
+    month: 3
+    year: 1986
+  number: "Rec. T p.\_403"
+  title: Ministre de la culture c. M^me^ Cusenier
+  title-short: Cusenier
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatPoliciers
+  issued:
+    day: 3
+    month: 2
+    year: 1993
+  number: "n^o^\_100832, Rec. p.\_25"
+  title: Union syndicale professionnelle des policiers municipaux
+  title-short: Union syndicale professionnelle des policiers municipaux
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatMonuments
+  issued:
+    day: 21
+    month: 2
+    year: 1986
+  number: "Rec. p.\_45"
+  title: Compagnie des architectes en chef des monuments historiques
+  title-short: Co. des architectes en chef des monuments historiques
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatENA
+  issued:
+    day: 4
+    month: 6
+    year: 1993
+  number: "Rec. p.\_526"
+  title: "Association des anciens \xE9l\xE8ves de l'ENA, Denis et Mme Laigneau"
+  title-short: "Association des anciens \xE9l\xE8ves de l'ENA"
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatMAD
+  issued:
+    day: 19
+    month: 10
+    year: 2016
+  number: "n^o^\_396958"
+  section: "form. sp\xE9."
+  title: M. A... D...
+  title-short: A... D...
+  type: legal_case
+- ECLI: null
+  URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000032047966&fastReqId=549530502&fastPos=1
+  authority: "Conseil d\u2019\xC9tat"
+  comments: "REP contre le d\xE9cret n\xB0 2014-1576 du 24 d\xE9cembre 2014 relatif\
+    \ \xE0 l'acc\xE8s administratif aux donn\xE9es de connexion"
+  id: cetatAccesADC
+  issued:
+    day: 12
+    month: 2
+    year: 2016
+  number: "n^o^\_388134"
+  section: 10^e^ et 9^e^ SSR
+  title: "French Data Network et autres [acc\xE8s administratif aux donn\xE9es de\
+    \ connexion]"
+  title-short: "FDN [acc\xE8s admin. aux donn\xE9es de connexion]"
+  type: legal_case
+- ECLI: null
+  URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?idTexte=CETATEXT000008067210
+  authority: "Conseil d\u2019\xC9tat"
+  id: cetatFranceNature
+  issued:
+    day: 10
+    month: 1
+    year: 2001
+  number: "n^o^\_217237"
+  section: 9^e^ et 10^e^ SSR
+  title: France Nature Environnement
+  title-short: France Nature Environnement
+  type: legal_case
+- ECLI: null
+  URL: http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:61996CJ0129&from=FR
+  authority: CJCE
+  id: cjceInterEnv
+  issued:
+    day: 18
+    month: 12
+    year: 1997
+  number: 129/96
+  section: null
+  title: "Inter-Environnement Wallonie ASBL contre R\xE9gion wallonne"
+  title-short: Inter-Environnement Wallonie
+  type: legal_case
+- ECLI: null
+  URL: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2016/2016-590-qpc/decision-n-2016-590-qpc-du-21-octobre-2016.148047.html
+  authority: Conseil constit.
+  comments: null
+  id: cconstVoieHertz
+  issued:
+    day: 21
+    month: 10
+    year: 2016
+  number: 2016-590 QPC
+  section: null
+  title: "La Quadrature du Net et autres [Surveillance et contr\xF4le des trasmissions\
+    \ empruntant la voie hertzienne]"
+  title-short: LQDN [Surveillance voie hertzienne]
+  type: legal_case
+- ECLI: FR:CECHS:2016:393080.2016111
+  URL: https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000033442775&fastReqId=1655242348&fastPos=1
+  authority: "Conseil d\u2019\xC9tat"
+  comments: null
+  id: cetatDecretNonPub
+  issued:
+    day: 18
+    month: 11
+    year: 2016
+  number: "n^o^\_393080"
+  section: 8^e^ chambre
+  title: "La Quadrature du Net et autres [D\xE9cret non publi\xE9 sur les activit\xE9\
+    s de surveillance internationale par les services de renseignements]"
+  title-short: "LQDN [D\xE9cret non publi\xE9 sur les activit\xE9s de surveillance\
+    \ internationale]"
+  type: legal_case
+- ECLI: EU:C:2014:100
+  URL: http://curia.europa.eu/juris/document/document.jsf?text=&docid=148386&pageIndex=0&doclang=FR&mode=lst&dir=&occ=first&part=1&cid=632752
+  authority: CJUE
+  id: cjueWoonpunt
+  issued:
+    day: 27
+    month: 2
+    year: 2014
+  number: C-132/12
+  section: null
+  title: Stichting Woonpunt et autres contre Commission
+  title-short: Stichting Woonpunt e.a. / Commission
+  type: legal_case
+- ECLI: EU:C:2009:68
+  URL: http://curia.europa.eu/juris/document/document.jsf?text=&docid=72843&pageIndex=0&doclang=FR&mode=lst&dir=&occ=first&part=1&cid=632950
+  authority: CJCE
+  id: cjceIrlParld2006
+  issued:
+    day: 10
+    month: 2
+    year: 2009
+  number: "C-301/06\_P"
+  section: null
+  title: "Irlande contre Parlement Europ\xE9en et Conseil de l'Union Europ\xE9enne"
+  title-short: "Irlande contre Parlement Europ\xE9en"
+  type: legal_case
+- ECLI: EU:C:1998:193
+  URL: http://curia.europa.eu/juris/document/document.jsf?text=&docid=43819&pageIndex=0&doclang=FR&mode=lst&dir=&occ=first&part=1&cid=633399
+  authority: CJCE
+  id: cjceDreyfus
+  issued:
+    day: 5
+    month: 5
+    year: 1998
+  number: C-386/96
+  section: null
+  title: "Soci\xE9t\xE9 Louis Dreyfus contre Commission des Communaut\xE9s europ\xE9\
+    ennes"
+  title-short: Dreyfus v. Commission
+  type: legal_case
+- ECLI: EU:C:1985:18
+  URL: http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:61982CJ0011&from=FR
+  authority: CJCE
+  id: cjcePiraiki
+  issued:
+    day: 17
+    month: 1
+    year: 1985
+  number: C-11/82
+  section: null
+  title: "SA Piraiki-Patraiki et autres contre Commission des Communaut\xE9s europ\xE9\
+    ennes"
+  title-short: Piraiki-Patraiki e. a. contre Commission
+  type: legal_case
+- ECLI: EU:T:2011:623
+  URL: http://curia.europa.eu/juris/document/document.jsf?text=&docid=111762&pageIndex=0&doclang=fr&mode=lst&dir=&occ=first&part=1&cid=634464
+  authority: TPIUE
+  id: tpiueMicroban
+  issued:
+    day: 25
+    month: 10
+    year: 2011
+  number: T-262/10
+  section: null
+  title: Microban International et Microban (Europe) contre Commission
+  title-short: Microban International v. Commission
+  type: legal_case
+- ECLI: EU:T:2015:472
+  URL: http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:62014TJ0312&from=FR
+  authority: TPIUE
+  id: tpiueFedercoop
+  issued:
+    day: 7
+    month: 7
+    year: 2015
+  number: T-312/14
+  section: null
+  title: "Federazione nazionale delle cooperative della pesca (Federcoopesca) e.a.\
+    \ contre Commission europ\xE9enne"
+  title-short: Federcoopesca c. Commission
+  type: legal_case
+- ECLI: EU:T:2010:99
+  URL: http://curia.europa.eu/juris/document/document.jsf?text=&docid=82994&pageIndex=0&doclang=fr&mode=lst&dir=&occ=first&part=1&cid=635506
+  authority: TPIUE
+  id: tpiueForum187
+  issued:
+    day: 18
+    month: 3
+    year: 2010
+  number: T-189/08
+  section: null
+  title: "Forum 187 ASBL contre Commission europ\xE9enne"
+  title-short: "Forum 187 ASBL c. Commission europ\xE9enne"
+  type: legal_case
+- ECLI: EU:T:2012:176
+  URL: http://curia.europa.eu/juris/liste.jsf?language=fr&num=T-236/10
+  authority: TPIUE
+  id: tpiueAsoEspBanca
+  issued:
+    day: 29
+    month: 3
+    year: 2012
+  number: T-236/10
+  section: null
+  title: "Asociaci\xF3n Espa\xF1ola de Banca contre Commission europ\xE9enne"
+  title-short: "Asociaci\xF3n Espa\xF1ola de Banca c. Commission europ\xE9enne"
+  type: legal_case
+- authority: CJCE
+  id: cjceKolpinghuis
+  issued:
+    day: 08
+    month: 10
+    year: 1987
+  number: 80/86
+  section: 6^e^
+  title: "Proc\xE9dure p\xE9nale contre Kolpinghuis Nijmegen BV."
+  title-short: Kolpinghuis Nijmegen
+  type: legal_case
+- authority: "Conseil d\u2019\xC9tat"
+  id: cetatBailapart
+  issued:
+    day: 15
+    month: 3
+    year: 2017
+  number: "n^o^\_391654"
+  section: 5^e^, 4^e^ ch. r.
+  title: "Association \xABBail \xE0 part, tremplin pour le logement\xBB"
+  title-short: "Association \xABBail \xE0 part\xBB"
+  type: legal_case
+- authority: CJUE
+  id: cjuebreyer
+  issued:
+    day: 19
+    month: 10
+    year: 2016
+  number: C-582/14
+  section: 2^e^
+  title: Patrick Breyer contre Bundesrepublik Deutschland
+  title-short: Breyer
+  type: legal_case
+- URL: https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000019104139
+  authority: CNIL
+  id: cnilEdvige
+  issued:
+    day: 16
+    month: 6
+    year: 2008
+  number: "n^o^\_2008-174"
+  section: null
+  title: "D\xE9lib\xE9ration n^o^\_2008-174 du 16\_juin 2008 portant avis sur un projet\
+    \ de d\xE9cret en Conseil d'Etat portant cr\xE9ation au profit de la direction\
+    \ centrale de la s\xE9curit\xE9 publique d'un traitement automatis\xE9 de donn\xE9\
+    es \xE0 caract\xE8re personnel d\xE9nomm\xE9 \xAB\_EDVIGE\_\xBB"
+  title-short: Avis sur le traitement EDVIGE
+  type: legislation
+- URL: https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000018777441
+  authority: CNIL
+  id: cnilVisage
+  issued:
+    day: 11
+    month: 12
+    year: 2007
+  number: "n^o^\_2007-368"
+  title: "D\xE9lib\xE9ration n^o^\_2007-368 du 11\_d\xE9cembre 2007 portant avis sur\
+    \ un projet de d\xE9cret en Conseil d'Etat modifiant le d\xE9cret n^o^\_2005-1726\
+    \ du 30\_d\xE9cembre 2005 relatif aux passeports \xE9lectroniques"
+  title-short: "Avis relatif aux passeports \xE9lectroniques"
+  type: legislation
+- URL: https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032372514
+  authority: CNIL
+  id: cnilReconFac
+  issued:
+    day: 28
+    month: 1
+    year: 2016
+  number: "n^o^\_2016-012"
+  title: "D\xE9lib\xE9ration n^o^\_2016-012 du 28\_janvier 2016 portant avis sur un\
+    \ projet de d\xE9cret portant modification d'un traitement automatis\xE9 de donn\xE9\
+    es \xE0 caract\xE8re personnel d\xE9nomm\xE9 PARAFE"
+  title-short: Avis sur le traitement PARAFE
+  type: legislation
+- URL: null
+  authority: "Cour\_EDH"
+  id: cedhMK
+  issued:
+    day: 18
+    month: 4
+    year: 2013
+  number: "n^o^\_19522/09"
+  section: null
+  title: M. K contre France
+  title-short: M. K c. France
+  type: legal_case
+- ECLI: sdfsdfsdf
+  URL: sdfsdfsdfsd
+  authority: sdfdsf
+  id: sdfdsf
+  number: sdfsdfsd
+  section: sdfdsfs
+  title: sdfsdfsd
+  title-short: sdfsdfsd
+  type: sdfsdf

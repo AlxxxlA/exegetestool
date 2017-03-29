@@ -1,0 +1,33 @@
+{% extends 'core/base.html' %}
+
+{% block content %}
+<div class="container-fluid">
+<table class="table">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Number</th>
+      <th>Title</th>
+      <th>Issued</th>
+      <th>Update</th>
+    </tr>
+  </thead>
+
+  <tbody>
+{% if datas %}
+
+{% for data in datas %}
+  <tr>
+    <td>{{ data.id }}</td>
+    <td>{{ data.number }}</td>
+    <td><a href="{% url 'display_references' data.position %}"> {{ data.title_short }} </a></td>
+    <td>{{ data.issued.year }}/{{ data.issued.month }}/{{ data.issued.day }}</td>
+    <td><a href="{% url 'update_references' data.position %}"> Update </a></td>
+  </tr>
+{% endfor %}
+
+{% endif %}
+  </tbody>
+</table>
+</div>
+{% endblock %}

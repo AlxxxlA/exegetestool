@@ -1,0 +1,22 @@
+{% extends 'core/base.html' %}
+
+{% block content %}
+<div class="container-fluid">
+
+<h1 class="text-center">{{ data.title_short }} <br><small>{{ data.issued.year }}/{{ data.issued.month }}/{{ data.issued.day }}</small></h1>
+
+<p class="text-center">
+  Title : {{ data.title }}<br>
+  ID : {{ data.id }}<br>
+  Type : {{ data.type }}<br>
+  Authority : {{ data.authority }}<br>
+  Section : {{ data.section }}<br>
+  Number : {{ data.number }}<br>
+  ECLI : {{ data.ECLI }} <br>
+  URL : <a href="{{ data.URL }}" target="_blank"> {{ data.URL }}</a>
+</p>
+<p class="text-center">
+  <a href="{% url 'update_references' position_id %}" class="btn btn-success">Update</a>
+</p>
+
+{% endblock %}

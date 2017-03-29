@@ -1,0 +1,68 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+<html lang="{{LANGUAGE_CODE}}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="{% static 'bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
+    <link href="{% static 'style.css' %}" rel="stylesheet">
+
+    <title>
+      {% if title %}
+        {{ title }}
+      {% endif %} - ExegetesDoc
+    </title>
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body id="page-top" class="index">
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="{% url 'index' %}">Cases</a></li>
+            <li class="active"><a href="{% url 'add_references' %}">New case</a></li>
+            <li class="active"><a href="{% url 'display_yaml' %}">Show YAML file</a></li>
+          </ul>
+          <form class="navbar-form navbar-right" role="search">
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Search">
+          </div>
+          <button type="submit" class="btn btn-default">Submit</button>
+        </form>
+      </div>
+    </nav>
+
+    <section class="page-corpus">
+      {% if messages %}
+      {% for message in messages %}
+          <div class="alert alert-{{ message.tags }} alert-dismissable">
+             <button type="button" class="close" data-dismiss="alert"
+            aria-hidden="true">
+            &times;
+         </button>
+         {{ message }}</div>
+      {% endfor %}
+      {% endif %}
+      <div class="container-fluid">
+        {% block content %}{% endblock %}
+      </div>
+    </section>
+
+    <!-- jQuery -->
+    <script src="{% static 'js/jquery.min.js' %}"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="{% static 'bootstrap/js/bootstrap.min.js' %}"></script>
+
+  </body>
+</html>
