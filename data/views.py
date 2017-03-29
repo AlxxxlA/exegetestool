@@ -4,6 +4,8 @@ import yaml, git, os
 from exegetetool import settings
 from forms import ReferenceForm
 from django.http import HttpResponse
+from datetime import datetime, date
+from django.contrib import messages
 
 data_file = os.path.join(settings.BASE_DIR, 'exegetesDoc/data/references.yaml')
 
@@ -19,12 +21,16 @@ def load_yaml(position=False):
                 for data in datas['references']:
                     data['position'] = position
                     data['title_short'] = data.get('title-short')
+                    try:
+                        data['date'] = "%s/%s/%s" % (int(data['issued']['month']), int(data['issued']['day']), int(data['issued']['year']))
+                    except:
+                        data['date'] = None
                     position += 1
         except yaml.YAMLError as e:
             print(e)
     return datas['references']
 
-def update_yaml(position_id, data):
+def update_yaml(request, position_id, data):
     """
 
     """
@@ -33,9 +39,11 @@ def update_yaml(position_id, data):
     datas[position_id]['id'] = data['id']
     datas[position_id]['authority'] = data['authority']
     datas[position_id]['section'] = data['section']
-    # datas[position_id]['issued']['year'] = data['date'].year
-    # datas[position_id]['issued']['month'] = data['date'].month
-    # datas[position_id]['issued']['day'] = data['date'].day
+    if data['date']:
+        datas[position_id]['issued'] = {}
+        datas[position_id]['issued']['year'] = int(data['date'][6:10])
+        datas[position_id]['issued']['month'] = int(data['date'][0:2])
+        datas[position_id]['issued']['day'] = int(data['date'][3:5])
     datas[position_id]['title'] = data['title']
     datas[position_id]['title-short'] = data['title_short']
     datas[position_id]['number'] = data['number']
@@ -44,6 +52,7 @@ def update_yaml(position_id, data):
     with open(data_file, 'w') as file:
         try:
             file.write(yaml.safe_dump({'references' : datas }, default_flow_style=False))
+            messages.success(request, "The YAML file have been successfull updated")
         except yaml.YAMLError as e:
             print(e)
     return
@@ -59,6 +68,11 @@ def add_yaml(data):
         'authority': data['authority'],
         'section': data['section'],
         'title': data['title'],
+        'issued': {
+            'year': int(data['date'][6:10]),
+            'month': int(data['date'][0:2]),
+            'day': int(data['date'][3:5]),
+        },
         'title-short': data['title_short'],
         'number': data['number'],
         'ECLI': data['ECLI'],
@@ -112,11 +126,11 @@ def update(request, position_id):
         Update a case
     """
     position_id = int(position_id)
-    datas = load_yaml()[position_id]
+    datas = load_yaml(True)[position_id]
     f = ReferenceForm(datas)
     if request.POST:
         datas = request.POST
-        update_yaml(position_id, datas)
+        update_yaml(request, position_id, datas)
         f = ReferenceForm(datas)
     context = {
         'form': f.as_p(),

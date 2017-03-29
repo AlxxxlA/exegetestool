@@ -9,6 +9,7 @@ class ReferenceForm(forms.Form):
     section = forms.CharField(required=False, widget=forms.TextInput(attrs={'class': 'form-control'}))
     title = forms.CharField(required=False, widget=forms.TextInput(attrs={'class': 'form-control'}))
     title_short = forms.CharField(required=False, widget=forms.TextInput(attrs={'class': 'form-control'}))
+    date = forms.DateField(required=False, widget=forms.DateInput(attrs={'class': 'form-control datepicker'}))
     number = forms.CharField(required=False, widget=forms.TextInput(attrs={'class': 'form-control'}))
     ECLI = forms.CharField(required=False, widget=forms.TextInput(attrs={'class': 'form-control'}))
     URL = forms.CharField(required=False, widget=forms.TextInput(attrs={'class': 'form-control'}))
